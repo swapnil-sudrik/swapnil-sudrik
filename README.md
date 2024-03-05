@@ -1,6 +1,4 @@
 
-<img align="center" width="100%" height="400px" src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" />
-
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Swapnil Sudrik</h1>
