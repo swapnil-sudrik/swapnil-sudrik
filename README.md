@@ -120,6 +120,7 @@
 <h6 align="center"><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.</h6>
 
 <br/>
+<br/>
 
 
 <!--
