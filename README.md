@@ -18,7 +18,7 @@
 
    - 🌱 I’m currently learning *Frontend and Backend Technologies*
 
-   - 📄 [Check out my Resume](https://drive.google.com/file/d/1KNPrd36FjxMwfr4Jw1W60r7f9FATecDs/view?usp=sharing)
+   - 📄 [Check out my Resume](https://drive.google.com/file/d/1mWLx_2iDwgfxoO11eKGhpQ7v7n1g54jt/view?usp=sharing)
 
    - 💻 [Check my portfolio](https://swapnilsudrik.github.io/profile/)
 
