@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=swapnil-sudrik&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil sudrik" /> </p>
 
-<h3 align="center">Java Developer | Full Stack Enthusiast | MERN Stack Developer | MySQL | Git | Github | Microsoft Azure | Spring boot | Micronaut | Open to Exciting Opportunities.</h3>
+<h3 align="center">Java Developer | Full Stack Enthusiast | MERN Stack Developer | MySQL | Git | Github | Microsoft Azure | Spring boot | Micronaut</h3>
 
 
 ## 🙋‍♂️ About Me
